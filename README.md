@@ -1,2 +1,2 @@
-# pthon-ds
+# Pthon Ds
 Data structure with Python
